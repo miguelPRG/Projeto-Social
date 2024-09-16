@@ -19,7 +19,7 @@ main{
     height: 100vh;
 }
 
-main section.telemovel{
+main section#telemovel{
     position: absolute;
     height: 627px;
     width: 311px;
@@ -29,7 +29,7 @@ main section.telemovel{
     background-image: url("./imagens/frame-iphone.png");
 }
 
-main section.telemovel iframe{
+main section#telemovel iframe{
     position: absolute;
     width: 269px;
     height: 475px;
@@ -38,3 +38,21 @@ main section.telemovel iframe{
     transform: translate(-50%,-50%);
 }
 
+section#redes-sociais{
+    text-align: right;
+}
+
+section#redes-sociais img{
+    width: 50px;
+    margin: 10px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px black;
+    box-sizing: border-box;
+}
+
+section#redes-sociais img:hover{
+    border: 2px solid rgba(255, 255, 255, 0.603);
+    transform: translate(-3px, -3px);
+    box-shadow: 5px 5px 10px black;
+    transition: transform 0.2s, boorder 0.2s;
+}
