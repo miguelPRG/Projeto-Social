@@ -1,3 +1,3 @@
 # Projeto Social
 
-Este projeto foi desenvolvido para treinar habilidades em HTML e CSS. Trata-se de um site simples onde mostro as redes sociais do professor *Gustavo Gunabara* no dentro de um *Iframe* na forma de um telemóvel.
+This project was developed to practice HTML and CSS skills. It's a simple website where I display Professor *Gustavo Gunabara*'s social media accounts within an *Iframe* in the shape of a cell phone.
